@@ -29,11 +29,11 @@ function getTotalSupply() {
 }
  
 const nft1 = mintNFT("vibhanshu", "black", "golden watch", "chacked");
-const nft2 = mintNFT("yash", "brown", "silver watch", "chacked");
+const nft2 = mintNFT("ankit", "brown", "silver watch", "chacked");
 const nft3 = mintNFT("aasrush", "white", "silver watch", "column");
 const nft4 = mintNFT("sagar", "black", "golden watch", "chacked");
 const nft5 = mintNFT("navdeep", "brown", "sliver watch", "chacked");
-const nft6 = mintNFT("Amrit", "red", " golden watch", "plain");
+const nft6 = mintNFT("sushant", "yellow", " golden watch", "plain");
  
 listNFTs();
 console.log("total : " + getTotalSupply());
